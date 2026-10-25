@@ -59,8 +59,10 @@ pip install pandas seaborn matplotlib
 
 ## Repository Contents
 
-- `Python_Data_Visualization_Assignment.ipynb` — notebook containing the code and visualizations.
-- `README.md` — project documentation.
+- `Python_Data_Visualization_Assignment.ipynb` — Jupyter Notebook containing the Python code and data visualizations.
+- `Python_Data_Visualization.pdf` — PDF version of the Python Data Visualization assignment.
+- `README.md` — Project overview, tools and technologies, visualizations, and execution instructions.
+
 
 ## Author
 
